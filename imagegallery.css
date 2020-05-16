@@ -1,0 +1,24 @@
+img{
+    position: relative;
+    float: left;
+    width:  400px;
+    height: 400px;
+    background-position: 50% 50%;
+    background-repeat:  no-repeat;
+    background-size: cover;
+    margin:1.6%;
+    border:5px solid #ddd;
+
+}
+
+h1{
+	text-align:center;
+	font-size:50px;
+	font-weight: 20;
+	border-bottom:3px solid red;
+	width:30%;
+	
+}
+
+	
+
